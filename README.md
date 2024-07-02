@@ -13,7 +13,7 @@ This is a simple JavaFX application that generates random mazes. This applicatio
 ## How to Run
 1. Clone the repository to your local machine.
 2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
-3. Run the `Main` class.
+3. Run the src/main/java/com/backend/mazegenerator/Main.java class.
 4. Click the "Generate New Maze" button to create a new random maze.
 
 ## Note
