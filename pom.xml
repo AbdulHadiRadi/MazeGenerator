@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.Backend</groupId>
-    <artifactId>MazeGame</artifactId>
+    <artifactId>MazeGenerator</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>MazeGame</name>
+    <name>com.backend.mazegenerator.MazeGenerator</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -64,7 +64,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.backend.mazegame/com.backend.mazegame.HelloApplication</mainClass>
+                            <mainClass>com.backend.mazegenerator/com.backend.mazegenerator.HelloApplication</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>
